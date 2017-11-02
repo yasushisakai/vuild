@@ -17,20 +17,26 @@ JETSON T2 dev kit
 by using a robot+AI platform, easy to apply novel research in the field of robotics.
 this will include image recoginition, locallization, deep learning... etc.
 
-# budget list (11500usd = approx 1,300,000)
+# budget list 
+11500usd = approx 1,300,000jpy
 
-## hardware (8500)
+
+## hardware ($8500)
 - [razer blade](https://www.razerzone.com/gaming-systems/razer-blade) $2500
 - $500 for miscelleneous rapid prototyping project (monthly) $6000
 
-## software (approx 2300)
+## software (approx $2300)
 - Rhinoceros $995
 - V-Ray for Rhinoceros $700
 - Adobe Suite (12m) $600
 
-## others (3000)
+## others ($3000)
 - two flight round trips (approx. $1500 ea) $3000
 
-## prototyping the new shopbot (1700)
+## prototyping the new shopbot ($1700)
 - JETSON T2 Dev Kit $700
 - others(motors, dc out, motordrivers, camera) $1000
+
+## (hours)
+
+~20hours / week
